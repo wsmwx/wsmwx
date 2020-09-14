@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 🔥 Go Communitity TBD
 - 🏠 Homepage at https://github.com/wsmwx
 
-[![maiyang's github stats](https://github-readme-stats.vercel.app/api?username=wsmwx)](https://github.com/msmwx)
+[![wsmwx's github stats](https://github-readme-stats.vercel.app/api?username=wsmwx&show_icons=true&theme=dark)](https://github.com/msmwx)
