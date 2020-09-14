@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 - 🏠 Homepage at https://github.com/wsmwx
 
 [![wsmwx's github stats](https://github-readme-stats.vercel.app/api?username=wsmwx&show_icons=true&theme=dark)](https://github.com/msmwx)
+
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wsmwx&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsmwx&layout=compact" />
+</div>
